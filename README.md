@@ -1,1 +1,1 @@
-# react-ttt
+# Tic Tact Toe in React!
